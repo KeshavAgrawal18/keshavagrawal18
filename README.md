@@ -57,9 +57,6 @@ Here are a few highlights of what I’ve built recently:
 - 🏨 [**The Wild Oasis**](https://github.com/Keshavagrawal18/the-wild-oasis): Hotel dashboard with live bookings and real-time analytics  
   _React · Supabase · React Query · PostgreSQL_
 
-- 📊 [**Hotel Visitor Dashboard**](#): Visualized visitor data with charts, filters & analytics  
-  _React · Chart.js · Date Filtering · Custom Components_
-
 ---
 
 ### 🏆 Competitive Programming & Achievements

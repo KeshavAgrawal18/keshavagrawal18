@@ -61,7 +61,7 @@ Here are a few highlights of what I’ve built recently:
 
 ### 🏆 Competitive Programming & Achievements
 
-- 🥉 **3★ on CodeChef (1652)** | 🟣 **Pupil on Codeforces (1285)**  
+- 🥉 **3★ on CodeChef (1652)** | 🟢 **Pupil on Codeforces (1285)**  
 - 🧠 **1100+ problems** solved across CP platforms  
 - 🥇 1st in CP TITANS at NIT Agartala  
 - 🎖️ Ranked Top 8% on LeetCode  
